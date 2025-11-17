@@ -4,7 +4,7 @@
 
 // ¡¡IMPORTANTE!!
 // Pega aquí tu clave de API de Google Gemini.
-const API_KEY = "AIzaSyCunVIXh8NSOdoW8LZNzM15NTKDCuMX3aI"; // <--- ¡PÉGALA AQUÍ!
+const API_KEY = ""; // <--- ¡PÉGALA AQUÍ!
 
 // Modelo de Gemini que usaremos
 const MODEL = "gemini-2.5-flash-preview-09-2025";
